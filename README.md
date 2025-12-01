@@ -1,16 +1,16 @@
-## Hi there 👋
+Hello, there!
 
-<!--
-**theprideofwolves/theprideofwolves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Bhanu Prathap Shourya V, someone who is unapologetically stubborn about being kind.
 
-Here are some ideas to get you started:
+I like building things that are simple, useful, and naturally secure from the start. Pentesting taught me how things break, so now I focus on designing them better.
+I experiment with tools and small applications I think should exist, and I document the process as I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• I build small security tools and secure-by-design applications.
+• I am currently learning how real teams ship secure products and applying that mindset.
+• I love filmmaking and writing obsessively.
+
+Thank you.
+
+-V
+
+
